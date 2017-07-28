@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">W2-D5-Test</string>
+    <string name="lbl_read_result">Result:</string>
+    <string name="lbl_result">%1$s</string>
+    <string name="lbl_test_home">ALVIN JEAN TEST01 - HOME</string>
+    <string name="lbl_del_up">Update/Delete by title:</string>
+    <string name="lbl_btn_toSave">SAVE NOTE</string>
+    <string name="lbl_btn_toRead">READ ALL NOTES</string>
+    <string name="lbl_btn_toUpdate">UPDATE NOTE</string>
+    <string name="lbl_btn_toDelete">DELETE NOTE</string>
+    <string name="lbl_test_save">ALVIN JEAN TEST01 - SAVE</string>
+    <string name="lbl_title">Note Title:</string>
+    <string name="lbl_content">Note Content:</string>
+    <string name="lbl_test_update">ALVIN JEAN TEST01 - UPDATE</string>
+    <string name="lbl_test_read">ALVIN JEAN TEST01 - READ</string>
+    <string name="lbl_test_delete">ALVIN JEAN TEST01 - DELETE</string>
+</resources>

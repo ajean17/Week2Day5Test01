@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="test_title_size">24dp</dimen>
+    <dimen name="test_margin">10dp</dimen>
+    <dimen name="result_size">18dp</dimen>
+</resources>
